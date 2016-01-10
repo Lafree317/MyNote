@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amain0</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>买家名称</string>
+			<key>key</key>
+			<string>buyerName</string>
+			<key>keyBoard</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>地址</string>
+			<key>key</key>
+			<string>address</string>
+			<key>keyBoard</key>
+			<string>0</string>
+		</dict>
+	</array>
+	<key>body0</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>物品</string>
+			<key>key</key>
+			<string>itemName</string>
+			<key>keyBoard</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>数量</string>
+			<key>key</key>
+			<string>number</string>
+			<key>keyBoard</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>进价</string>
+			<key>key</key>
+			<string>purchasePrice</string>
+			<key>keyBoard</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>售价</string>
+			<key>key</key>
+			<string>sellingPrice</string>
+			<key>keyBoard</key>
+			<string>2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
